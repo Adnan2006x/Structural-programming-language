@@ -144,4 +144,4 @@ Registration No: 2025331506
 Department of Computer Science & Engineering
 Sylhet Engineering College
 
-«Learn → Practice → Solve → Improve 🚀»You can copy this directly into a file named README.md and put it in the root folder of your GitHub repository.
+«Learn → Practice → Solve → Improve 🚀
