@@ -1,5 +1,4 @@
 # Structural-programming-language
-Absolutely 👍 I made it as a professional GitHub README for your SPL/C programming project, while keeping it suitable for a beginner-level academic repository.
 
 Structural Programming Language
 
