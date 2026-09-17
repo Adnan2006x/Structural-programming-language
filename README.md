@@ -1,7 +1,5 @@
 # Structural-programming-language
 
-Structural Programming Language
-
 Welcome to my Structural Programming Language (SPL) project repository.
 This repository contains my C programming practice, covering fundamental concepts as well as different types of problems and programming techniques.
 
